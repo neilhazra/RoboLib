@@ -36,7 +36,7 @@ Arduino reads all the data at once until a newline.
 Using string split and toCharArray C commands, each variable is isolated, and casted to a double.
 Methods used to get processed values.
 
-Neil Hara
+Neil Hazra
 
 
 Arduino reads all the data at once until a newline
